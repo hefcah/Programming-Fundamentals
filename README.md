@@ -1,1 +1,1 @@
-# Programming-Fundamentals
+Welcome to the Programming Fundamentals course repository! This course provides an introduction to core programming concepts. You will learn about variables, control structures, functions, loops, pointers, and basic algorithms. By the end of this course, you'll have a solid foundation in programming logic and syntax, ready to tackle more advanced topics in programming.
